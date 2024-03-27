@@ -28,12 +28,4 @@ Step 7: Implement API Endpoints
 1. Implement endpoints to receive shopper personalized information and product metadata from the data team.
 2. Implement endpoints to provide fast-reading operations for shoppers' personalized information to eCommerce servers.
 
-Step 8: Write Unit Tests
-1. Write unit tests to validate the functionality of your service methods.
 
-Step 9: Review and Refactor
-1. Review your code for readability, efficiency, and adherence to best practices.
-2. Refactor if necessary to improve code quality and maintainability.
-
-Step 10: Push to a Private Repository
-1. Push your code to a private repository on GitHub, GitLab, or Bitbucket.
